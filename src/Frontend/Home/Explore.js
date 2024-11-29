@@ -3,7 +3,7 @@ import ExploreCard from './ExploreCard'
 
 export default function Explore() {
     return (
-        <div className='flex flex-col gap-[30px] px-[70px]'>
+        <div className='flex flex-col gap-[30px] '>
             <div className='flex flex-row  '>
                 <div className='w-full flex flex-row justify-between items-center'>
                     <div className='space-y-[12px]'>

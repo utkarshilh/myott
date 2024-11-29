@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function ExperienceMessage() {
     return (
-        <div className='text-white flex flex-col items-center space-y-[40px] px-[150px]'>
+        <div className='text-white flex flex-col items-center space-y-[40px] '>
 
             <div>
                 <div className='text-[48px] font-mono-bold'>
