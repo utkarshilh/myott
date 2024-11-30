@@ -8,7 +8,7 @@ import Fmain from './Frontend/Footer/Fmain'
 
 function App() {
   return (
-    <div className="App bg-black-6 text-white">
+    <div className="App  text-white">
       <Home />
       <Fmain />
 

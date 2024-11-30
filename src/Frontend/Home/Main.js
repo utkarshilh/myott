@@ -12,7 +12,7 @@ import FreeTrial from './FreeTrial'
 
 export default function Main() {
     return (
-        <div className="gap-[100px] bg-black-6 text-white flex flex-col px-[70px]">
+        <div className="gap-[100px] bg-black-100 text-white flex flex-col px-[70px]">
             <div>
                 <Navbar />
                 <ExperienceMessage />

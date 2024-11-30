@@ -16,7 +16,7 @@ export default function Plans() {
                 </div>
             </div>
 
-            <div className='flex flex-row gap-10'>
+            <div className='flex md:flex-row flex-col gap-10  '>
                 <PlanCard />
                 <PlanCard />
                 <PlanCard />
